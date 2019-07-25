@@ -2,7 +2,12 @@
 
 A template with all needed to create a good documentation
 
-Links:
+## Links
 
-*   [Main hand-written page](docs/main_page.md)
-*   [Auto-generated documentation](docs/generated.md)
+* [Main hand-written page](docs/main_page.md)
+* [Auto-generated documentation](docs/generated.md)
+
+## Do not forget
+
+* Remove `docs/generated` as a demo folder
+* Change a project name in `docs/src/Doxyfile`
