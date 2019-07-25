@@ -1,0 +1,3 @@
+graphviz==0.10.1
+doxybook>=3.0.0
+typing>=3.6.6
