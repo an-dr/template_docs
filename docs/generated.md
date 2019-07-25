@@ -2,8 +2,8 @@
 
 ## Content
 
-[Files]("generated/files.md")
-[Pages]("generated/pages.md")
+* [Files](generated/files.md)
+* [Pages](generated/pages.md)
 
 ## Note
 
